@@ -1,0 +1,11 @@
+# Ignore the built site directory
+_site/
+
+# Ignore metadata files from macOS
+.DS_Store
+
+# Optional: ignore local configuration and environment files
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.env
