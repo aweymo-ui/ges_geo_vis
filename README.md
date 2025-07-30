@@ -1,3 +1,3 @@
-# Using Geographic Visualizations to Enrich Oral History Recordings
+# Creating Geographic Animation Using Google Earth Studio
 
-Presentation for the 2025 Western Association of Map Libraries Conference. Fall 2025.
+Presentation for the University of Idaho Library Tech Talk Series. _Andrew Weymouth, Fall 2025_.
