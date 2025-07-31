@@ -1,5 +1,5 @@
 ---
-title: Google Earth Studio Interface Orientation
+title: Google Earth Studio
 nav: Google Earth Studio
 gallery: true
 ---
