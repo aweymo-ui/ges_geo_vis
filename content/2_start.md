@@ -62,7 +62,7 @@ Though you can’t carry over descriptions into GES, you can translate some of t
 
 Now that we have our places, go back to the menu on the left of the screen and select `Add Layer`. Below the search bar, select the icon with the three dots connected by a line. To draw a line, simply select where you want to go and press enter when you are done. To create a polygon, repeat those steps but connect the last node to the first one you created. Polygons can help highlight distance, natural resources and connectivity between places. In this case, we might be able to understand the distance of a mining district, long term economic influence and geological formations by highlighting this cluster of mines in northern Washington. 
 
-{% include card.html text="Be less sloppy than I am and zoom in on your destinations before drawing to get a cleaner look!" title="Note" %}
+{% include card.html text="Be less sloppy than I am here and zoom in to your destinations before drawing to get more precision!" title="Note" %}
 
 <br>
 
@@ -70,6 +70,6 @@ Now that we have our places, go back to the menu on the left of the screen and s
 
 <br>
 
-Now that we have our labels on one layer and our shapes on another, select the ellipses to the right of your project title and select `Export to KML/KMZ` and download the `Entire Map`. Opening [Google Earth Sttudio](https://earth.google.com/studio/) may bring you to an interstitial page where you can select which google account you are using, then this main page. If you select the dropdown on Blank Project, you will see GES has a series of Quick Starts, which are an excellent option if you would like to experiment with zooming into and orbiting around just one object or jumping from one point to another. For this test, we will be selecting the `Blank Project` option. 
+Now that we have our labels on one layer and our shapes on another, select the ellipses to the right of your project title and select `Export to KML/KMZ` and download the `Entire Map`. Opening [Google Earth Studio](https://earth.google.com/studio/) may bring you to an interstitial page where you can select which google account you are using, then this main page. If you select the dropdown on Blank Project, you will see GES has a series of Quick Starts, which are an excellent option if you would like to experiment with zooming into and orbiting around just one object or jumping from one point to another. For this test, we will be selecting the `Blank Project` option. 
 
 <br>
