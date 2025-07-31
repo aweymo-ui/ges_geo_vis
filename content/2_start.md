@@ -34,7 +34,13 @@ Something I found unintuitive when I first started working with Google geographi
 
 If you have a working google account, you will be automatically signed into My Maps with that account and your projects will be saved under it. For this exercise, I thought it might be interesting to build this test around a map of mining locations north of Spokane from the Northwest Mining News magazine from 1907. 
 
-{% include gallery-figure.html img="ges_geo_vis_22.jpg" alt="A detailed map showing the principal mining districts near Spokane, Washington, published by Northwest Mining News in Spokane, Washington in 1901. The map includes labeled locations, rivers, and major towns, with numerous shaded areas indicating mining districts. Roads and railways are also marked, and there is a prominent border signifying the division with British Columbia to the north." width="75%" caption="Mining map published by Northwest Mining News in Spokane, Washington in 1901." %}
+{% include gallery-figure.html img="ges_geo_vis_22.jpg" alt="A detailed map showing the principal mining districts near Spokane, Washington, published by Northwest Mining News in Spokane, Washington in 1901. The map includes labeled locations, rivers, and major towns, with numerous shaded areas indicating mining districts. Roads and railways are also marked, and there is a prominent border signifying the division with British Columbia to the north." caption="Mining map published by Northwest Mining News in Spokane, Washington in 1901." %}
+
+<br>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>
 
@@ -46,7 +52,7 @@ Looking at just a few of these locations that will allow us to create some lines
 
 {% include gallery-figure.html img="ges_geo_vis_06.jpg" alt="A map showing various locations marked with icons, including Keller, Bodie, Chesaw, Curlew, and others. A sidebar lists these mining locations with corresponding icons. A pop-up at Curlew provides details and coordinates. A color selection menu for map icons is displayed. The base map is labeled as part of a tech talk tutorial for 2025." caption="Adjusting the styling of placemarkers in Google My Maps" %}
 
-Selecting the placemarker, you can change the styling of the color and icon with the paint button symbol or adjust the label or description of the item by selecting the pencil icon. Note that metadata you put in the description field or images you attach with the camera icon will not generate in GES (although they will in Google Earth). If you want to adjust all of your labels quickly and efficiently, you can select the ellipses to the right of your layer title and choose Open Data Table, which will display your label and descriptions like a little spreadsheet. 
+Selecting the placemarker, you can change the styling of the color and icon with the paint button symbol or adjust the label or description of the item by selecting the pencil icon. Note that metadata you put in the description field or images you attach with the camera icon will not generate in GES (although they will in Google Earth). If you want to adjust all of your labels quickly and efficiently, you can select the ellipses to the right of your layer title and choose `Open Data Table`, which will display your label and descriptions like a little spreadsheet. 
 
 {% include gallery-figure.html img="ges_geo_vis_08.jpg" alt="A map with a table overlay listing mining locations. The table includes columns for name and description with entries for towns and sites such as Keller, Bodie, and Curlew. Descriptions note counties, soil types, and statuses like Active Town or Community and Never Developed. Two locations, Curlew and Keller, are marked on the map." caption="Expanding the table view in Google My Maps to revise titles and descriptions efficiently." %}
 
@@ -60,7 +66,9 @@ Though you can’t carry over descriptions into GES, you can translate some of t
 
 {% include gallery-figure.html img="ges_geo_vis_29.gif" alt="A moving image of a user drawing a line between four destinations, then varying the color and opacity of the polygon." caption="Creating and adjusting the styling of a polygon in Google My Maps." %}
 
-Now that we have our places, go back to the menu on the left of the screen and select `Add Layer`. Below the search bar, select the icon with the three dots connected by a line. To draw a line, simply select where you want to go and press enter when you are done. To create a polygon, repeat those steps but connect the last node to the first one you created. Polygons can help highlight distance, natural resources and connectivity between places. In this case, we might be able to understand the distance of a mining district, long term economic influence and geological formations by highlighting this cluster of mines in northern Washington. 
+Now that we have our places, go back to the menu on the left of the screen and select `Add Layer`. Below the search bar, select the icon with the three dots connected by a line. To draw a line, simply select where you want to go and press enter when you are done. To create a polygon, repeat those steps but connect the last node to the first one you created. Polygons can help highlight distance, natural resources and connectivity between places. In this case, we might be able to understand the distance of a mining district, long term economic influence and geological formations by highlighting this cluster of mines in northern Washington.
+
+<br>
 
 {% include card.html text="Be less sloppy than I am here and zoom in to your destinations before drawing to get more precision!" title="Note" %}
 
@@ -70,6 +78,12 @@ Now that we have our places, go back to the menu on the left of the screen and s
 
 <br>
 
-Now that we have our labels on one layer and our shapes on another, select the ellipses to the right of your project title and select `Export to KML/KMZ` and download the `Entire Map`. Opening [Google Earth Studio](https://earth.google.com/studio/) may bring you to an interstitial page where you can select which google account you are using, then this main page. If you select the dropdown on Blank Project, you will see GES has a series of Quick Starts, which are an excellent option if you would like to experiment with zooming into and orbiting around just one object or jumping from one point to another. For this test, we will be selecting the `Blank Project` option. 
+Now that we have our labels on one layer and our shapes on another, select the ellipses to the right of your project title and select `Export to KML/KMZ` and download the `Entire Map`.
+
+<br>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>

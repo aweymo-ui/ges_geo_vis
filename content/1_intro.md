@@ -26,11 +26,13 @@ The idea to map the oral history recordings began during a meeting where I broug
 
 {% include gallery-figure.html img="ges_geo_vis_28.jpg" alt="Six people and a dog outside a log cabin in a snowy forest setting. Five people are standing and one kneels, petting the dog. The group is casually dressed in plaid and solid-colored shirts, and one person is wearing a headband." caption="Arlow Lewis, the caretaker of Taylor Ranch for several years, far left with glasses. Kneeling on left is Jim Bennett, then a PhD student working on bighorn sheep. Carol Bennett is in the yellow top." %}
 
-I selected the oral history excerpts that I felt uniquely adept at providing a sense of the amount of time that it takes to navigate the area on foot and discussed locations that not only had a geographic scale but a chronological one. In the first excerpt, wildlife researcher Dr. Maurice Hornocker recounts a four-day search for his colleague’s dog, Little Red. The emotional narrative demonstrates how far one could venture in the area before needing to come back to base. The multi-day structure of the story allowed me to experiment with time-of-day functionalities, another attribute you can manipulate in Google Earth Studio to visualize the rising and setting of the sun over days, months, or years. This adds a dynamic lighting component to the finished visualization and a more nuanced understanding of the environment they were navigating.
+I selected the oral history excerpts that I felt uniquely adept at providing a sense of the amount of time that it takes to navigate the area on foot and discussed locations that not only had a geographic scale but a chronological one. 
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
 </div>
+
+In the first excerpt, wildlife researcher Dr. Maurice Hornocker recounts a four-day search for his colleague’s dog, Little Red. The emotional narrative demonstrates how far one could venture in the area before needing to come back to base. The multi-day structure of the story allowed me to experiment with time-of-day functionalities, another attribute you can manipulate in Google Earth Studio to visualize the rising and setting of the sun over days, months, or years. This adds a dynamic lighting component to the finished visualization and a more nuanced understanding of the environment they were navigating.
 
 {% include feature/video.html objectid="https://www.youtube.com/watch?v=EEFYBcwY4Bg&t=31s" %}
 
