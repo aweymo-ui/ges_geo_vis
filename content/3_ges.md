@@ -6,7 +6,7 @@ gallery: true
 
 <br>
 
-{% include feature/nav-menu.html sections="Pausing;Easing;Single Point;Polygon;Line;Time of Day;Export and Embed" %}
+{% include feature/nav-menu.html sections="Easing;Pausing;Single Point;Polygon;Line;Time of Day;Export and Embed" %}
 
 <br>
 
@@ -24,6 +24,16 @@ Movement is established by creating keyframes that manipulate these characterist
 
 <br>
 
+## Easing
+
+{% include gallery-figure.html img="geo_viz_oh_04.jpg" alt="Google Earth Studio interface, with timeline controls, playback and scene rendering functions." width="75%" caption="Detail on the the easing controls, indicated by carrot on either side of the circular keyframe on the timeline." %}
+
+<br>
+
+You will notice that, by default, GES adds an “auto-ease” characteristic to keyframes and you link them. Easing in and out slows you down before you reach your keyframe and as you leave it so the movement is less jarring for viewers. This is generally a good thing except for when you are duplicating keyframes to pause, where this effect is distracting. To resolve this issue, select all of the keyframes and choose `Linear`. 
+
+<br>
+
 ## Pausing
 
 <br>
@@ -33,16 +43,6 @@ One important thing to keep in mind is that you need to give the viewer long eno
 {% include gallery-figure.html img="ges_geo_vis_23.gif" alt="GES interface showing a slight change in tilt and pan between two keyframes." caption="GES interface demonstrating a slight change in tilt and pan data between two keyframes." %}
 
 I find that it is more natural and dynamic to have a very slight movement during these reading pauses than a completely static, robotic shot, so I will subtly pan left or right or tilt up or down by selecting the display and adjusting tilt and pan slightly with the `Shift + Arrow` keys, then `Control + Enter` to record these changes / update your keyframe information.
-
-<br>
-
-## Easing
-
-{% include gallery-figure.html img="geo_viz_oh_04.jpg" alt="Google Earth Studio interface, with timeline controls, playback and scene rendering functions." width="75%" caption="Detail on the the easing controls, indicated by carrot on either side of the circular keyframe on the timeline." %}
-
-<br>
-
-You will notice that, by default, GES adds an “auto-ease” characteristic to keyframes and you link them. Easing in and out slows you down before you reach your keyframe and as you leave it so the movement is less jarring for viewers. This is generally a good thing except for when you are duplicating keyframes to pause, where this effect is distracting. To resolve this issue, select all of the keyframes and choose `Linear`. 
 
 <br>
 
