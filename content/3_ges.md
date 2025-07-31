@@ -38,7 +38,7 @@ I find that it is more natural and dynamic to have a very slight movement during
 
 ## Easing
 
-{% include gallery-figure.html img="geo_viz_oh_04.jpg" alt="Google Earth Studio interface, with timeline controls, playback and scene rendering functions." caption="Google Earth Studio interface, with timeline controls, playback and scene rendering functions." %}
+{% include gallery-figure.html img="geo_viz_oh_04.jpg" alt="Google Earth Studio interface, with timeline controls, playback and scene rendering functions." width="75%" caption="Detail on the the easing controls, indicated by carrot on either side of the circular keyframe on the timeline." %}
 
 <br>
 

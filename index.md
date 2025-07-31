@@ -6,7 +6,7 @@ gallery: true
 
 {% include gallery-figure.html img="banner.jpg" alt="Banner image with the title of this presentation, an image of the author and an image of a polygon highlighting a topographical map." caption="Creating Geographic Animation Using Google Earth Studio" title="Creating Geographic Animation Using Google Earth Studio" %}
 
-- [slide deck](https://indd.adobe.com/view/99557cba-101c-4a1e-b824-ee02b1e77fcc){:target="_blank" rel="noopener"}
+- [slide deck](https://indd.adobe.com/view/a5057f82-11b1-4ad7-bd13-4412bf2e656e){:target="_blank" rel="noopener"}
 
 Presentation for the 2025 University of Idaho Library Tech Talk Series.
 
