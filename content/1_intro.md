@@ -6,7 +6,9 @@ gallery: true
 
 <br>
 
-The process I’ll be discussing has its origins in realizing a fundamental lack of understanding of the project I’d been working on for months. After transcribing hours of oral history material, processing thousands of research papers, and combing through metadata to create a digital collection on a natural science archive, I began to recognize a critical gap. My inability to grasp the area where all of the research was conducted obscured both my understanding of the material and my connection to the people conducting the research. I also realized that if I was struggling with this understanding, patrons and researchers using this digital resource would likely also feel this disconnection.
+Hello, I am the Digital Initiatives Librarian at University of Idaho, focusing on static web design to curate the institution’s special collections and partner with faculty and students on fellowship projects. I work on improving archival workflows, developing open source, sustainable tools to make digital collections more accurate and accessible. In the work I'll be discussing today, I also think a good deal about how to visualize data in ways that provide added context about our digital collections for patrons at the library and students in the university.
+
+The process I’ll be discussing has its origins in realizing a fundamental lack of understanding of the project I’d been working on for months. After transcribing hours of oral history material, processing hundreds of research papers, and combing through metadata to create a digital collection on a natural science archive, I began to recognize a critical gap. My inability to grasp the area where all of the research was conducted obscured both my understanding of the material and my connection to the people conducting the research. I also realized that if I was struggling with this understanding, patrons and researchers using this digital resource would likely also feel this disconnection.
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
@@ -40,6 +42,12 @@ In the second excerpt, Dr. Ed Krumpe describes the wilderness area’s history, 
 
 {% include feature/video.html objectid="https://www.youtube.com/watch?v=eKYyentx7Nc&t=15s" %}
 
-In the Digital Scholarship and Open Strategies department, where I work as the Digital Initiatives Librarian, this experiment has been helpful in thinking about ways that we can marry oral history material with geographic visualizations. We are thinking about moving away from proprietary platforms like Google to have more programmatic approaches that will lead to more sustainable data, but this approach is excellent for more isolated research projects where geographic context is key to reader understanding. 
+In the Digital Scholarship and Open Strategies department where I work, this experiment has been helpful in thinking about ways that we can marry oral history material with geographic visualizations. We are currently thinking about moving away from proprietary platforms like Google to have more programmatic approaches that will lead to more sustainable data, but this approach is can be incredibly helpful for you as students and researchers where geographic context is key to viewer comprehension.
+
+<br>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>
